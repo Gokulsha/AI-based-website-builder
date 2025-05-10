@@ -1,6 +1,6 @@
 # 🚀 AI-Powered Website Builder
 
-([https://via.placeholder.com/1200x400.png?text=AI+Website+Builder+-+From+Sketch+to+Code+in+Seconds](https://github.com/Gokulsha/AI-based-website-builder/blob/main/Screenshot%202025-05-02%20124614.png))
+![image alt]([https://via.placeholder.com/1200x400.png?text=AI+Website+Builder+-+From+Sketch+to+Code+in+Seconds](https://github.com/Gokulsha/AI-based-website-builder/blob/main/Screenshot%202025-05-02%20124614.png))
 
 An intelligent web development tool that converts **text descriptions** or **image sketches** into fully functional, Dockerized web applications using AI.
 
